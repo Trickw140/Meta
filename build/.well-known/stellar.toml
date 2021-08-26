@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCCXBOX3NHMU52FPCVYWXASWOW6IN2IUIBX4E6Y6H7QDIWXLROEPHHOM"
+"GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="Japanese domestic market refers to Japan's home market for vehicles. For the importer, these terms refer to vehicles and parts designed to conform to Japanese regulations and to suit Japanese buyers."
+ORG_DESCRIPTION="a meow massages the heart"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/t8nrx3c/jdm.jpg"
+ORG_LOGO="https://i.ibb.co/QcKtPPM/cat.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="jdm"
-issuer="GCCXBOX3NHMU52FPCVYWXASWOW6IN2IUIBX4E6Y6H7QDIWXLROEPHHOM"
+code="CatCoin"
+issuer="GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
 anchor_asset="false"
 name="Japanese Domestic Market"
-desc="Japanese domestic market refers to Japan's home market for vehicles. For the importer, these terms refer to vehicles and parts designed to conform to Japanese regulations and to suit Japanese buyers."
-image="https://i.ibb.co/t8nrx3c/jdm.jpg"
-fixed_number=10000000
-max_number=10000000
+desc="a meow massages the heart"
+image="https://i.ibb.co/QcKtPPM/cat.jpg"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Japanese Domestic Market was issued using the open and inclusive Stellar blockchain network.
+#Cat Coin was issued using the open and inclusive Stellar blockchain network.
