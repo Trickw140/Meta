@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
+"GDIMS3QKBRJZZL7VFLHDQZ4W3ACJ2AIRTKRUZLLT4XMUXN4L5SC4N3L5"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="a meow massages the heart"
+ORG_DESCRIPTION="CEO Mark Zuckerberg introduced Meta, which brings together our apps and technologies under one new company brand. Meta’s focus will be to bring the metaverse to life and help people connect, find communities and grow businesses."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QcKtPPM/cat.jpg"
+ORG_LOGO="https://i.ibb.co/vwj69Xy/meta.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
 code="CatCoin"
-issuer="GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
+issuer="GDIMS3QKBRJZZL7VFLHDQZ4W3ACJ2AIRTKRUZLLT4XMUXN4L5SC4N3L5"
 anchor_asset="false"
-name="Cat Coin"
-desc="a meow massages the heart"
-image="https://i.ibb.co/QcKtPPM/cat.jpg"
-fixed_number=1000000
-max_number=1000000
+name="MetaFacebook"
+desc="CEO Mark Zuckerberg introduced Meta, which brings together our apps and technologies under one new company brand. Meta’s focus will be to bring the metaverse to life and help people connect, find communities and grow businesses."
+image="https://i.ibb.co/vwj69Xy/meta.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Cat Coin was issued using the open and inclusive Stellar blockchain network.
+#CEO Mark Zuckerberg introduced Meta, which brings together our apps and technologies under one new company brand. Meta’s focus will be to bring the metaverse to life and help people connect, find communities and grow businesses..
